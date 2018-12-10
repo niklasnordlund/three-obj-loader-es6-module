@@ -1,0 +1,14 @@
+{
+  "name": "three-obj-loader-es6-module",
+  "version": "1.0.0",
+  "description": "THREE.js ObjLoader packaged as an ES module",
+  "license": "MIT",
+  "repository": "niklasnordlund/three-obj-loader-es6-module",
+  "main": "index.js",
+  "keywords": [
+    "three.js",
+    "three",
+    "objloader",
+    "es module"
+  ]
+}
